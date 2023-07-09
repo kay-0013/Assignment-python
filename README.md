@@ -1,5 +1,6 @@
 # Assignment-python
-Advanced Cricket Tournament Simulation Program using Python
+Advanced Cricket Tournament Simulation Program using Python 
+can use any python3 compiler to run this code
 import random 
 
 class Player:
